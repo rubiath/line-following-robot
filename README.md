@@ -6,12 +6,11 @@ Currently, this repo contains images and a brief description; code will be added
 ## Robot Images
 
 TOP VIEW: 
-![Front](images/robot_top.jpg)
-
+<img src="images/robot_top.jpg" width="400">
 BOTTOM VIEW:
-![Top](images/robot_bottom.jpg)
-
+<img src="images/robot_bottom.jpg" width="400">
 SENSOR SETUP:
-![Sensors](images/robot_sensor.jpg)
+<img src="images/robot_sensor.jpg" width="400">  
+
 
 > Status: Hardware showcase, code to be added later.
